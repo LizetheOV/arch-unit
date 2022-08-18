@@ -7,7 +7,7 @@ import java.io.PrintStream;
 import java.io.PrintWriter;
 import java.util.logging.Logger;
 
-public class ClassCodingRules {
+public class CodingRules {
     private static final Logger logger = Logger.getLogger("Wrong Logger");
 
     public void printToStandardStream() throws FileNotFoundException {
